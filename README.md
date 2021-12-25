@@ -1,5 +1,10 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Salbi Faza
 
+## 🔍 You Can Find Me at
+
+<p>
+  <a href="https://www.linkedin.com/in/salbifaza" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+</p>
 <!--
 **salbifaza/salbifaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
