@@ -12,7 +12,7 @@
 
 ## ⭐ Popular Repositories
 
-| 🎓 Courses | [DQLab](https://github.com/salbifaza/DQLab) · [Dicoding](https://github.com/myarist/Dicoding) · [Progate](https://github.com/myarist/Progate) |
+| 🎓 Courses | [DQLab](https://github.com/salbifaza/DQLab) · [Progate](https://github.com/salbifaza/Progate) |
 |:--------|:--------------------|
 <!--
 | ⚙ Projects | [Rock Paper Scissors](https://github.com/myarist/Rock-Paper-Scissors) · [Interactive ML Dashboard](https://github.com/myarist/Interactive-Machine-Learning-Dashboard) | 
